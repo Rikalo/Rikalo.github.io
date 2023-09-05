@@ -454,3 +454,12 @@ footer {
 	float: left;
 	text-align: right;
 }
+/* Styles for larger screens (desktop) */
+@media (min-width: 768px) {
+  /* Add your desktop-specific styles here */
+}
+
+/* Styles for smaller screens (mobile) */
+@media (max-width: 767px) {
+  /* Add your mobile-specific styles here */
+}
